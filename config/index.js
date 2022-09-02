@@ -4,7 +4,7 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "小熊日报",
 
     // 公众号APP_SECRET
     APP_SECRET: "",
