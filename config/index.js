@@ -20,8 +20,8 @@ export const config = {
     /**
      * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
      * [
-     *   {name: '小熊', id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk"}, 
-     *   {name: '小赵', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"},
+     *   {name: '小熊', id: "oP_s16P6MptIa-AaQG6y8QCgBtr0"}, 
+     *   {name: '小赵', id: "oP_s16P6MptIa-AaQG6y8QCgBtr0"},
      * ]
      */
     USERS: [
