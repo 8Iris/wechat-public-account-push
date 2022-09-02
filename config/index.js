@@ -13,8 +13,7 @@ export const config = {
     TEMPLATE_ID: "小熊日报",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "oP_s16P6MptIa-AaQG6y8QCgBtr0
-",
+    CALLBACK_TEMPLATE_ID: "oP_s16P6MptIa-AaQG6y8QCgBtr0",
 
 
     /**
@@ -43,7 +42,7 @@ export const config = {
     // 所在省份
     PROVINCE: "辽宁",
     // 所在城市
-    CITY: "海城",
+    CITY: "沈阳",
 
     /** 重要节日相关 */
 
@@ -56,8 +55,7 @@ export const config = {
     FESTIVALS: [
       {"type": "生日", "name": "小熊", "year": "2000", "date": "09-05"},
       {"type": "生日", "name": "小赵", "year": "2003", "date": "02-26"},
-      {"type": "节日", "name": "纪念日", "year": "2022", "date": "03-06"},
-    ],
+     
 
     /**
      * 限制重要节日的展示条目, 需要填写数字; 
@@ -76,8 +74,8 @@ export const config = {
       // 在一起的日子
       {"keyword": "love_day", date: "2022-03-06"},
     
-      // sakana日
-      // {"keyword": "sakana_day", date: "2022-01-06"},
+      // 纪念日
+      // {"keyword": "sakana_day", date: "2022-03-06"},
       // ... 
     ],
 
