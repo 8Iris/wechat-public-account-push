@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "小熊日报",
+    APP_ID: "wx841c4dda81bd7b48",
 
     // 公众号APP_SECRET
-    APP_SECRET: "小熊日报",
+    APP_SECRET: "0878ee538bff327def7f496e15b708d9",
 
     // 模板消息id
-    TEMPLATE_ID: "小熊日报",
+    TEMPLATE_ID: "-VYwkvghhe2KjBjYKXSlWdvIEwoZEnpbRCnjlsTQqRE",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "oP_s16P6MptIa-AaQG6y8QCgBtr0",
